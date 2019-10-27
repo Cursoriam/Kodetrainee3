@@ -1,6 +1,6 @@
 Information about request in task2 you can find in 
 Task2/DjangoProject/requirements.txt with list of dependencies
-To launch the app you need this commands(if you have installed python and virtualenvwrapper and you are in directory with project)
+To launch the app you need this commands in Windows OS (if you have installed python and virtualenvwrapper and you are in directory with project)
 ```
 mkvirtualenv yourenv
 workon yourenv
