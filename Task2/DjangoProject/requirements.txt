@@ -11,7 +11,7 @@ pytz==2019.3
 requests==2.22.0
 six==1.12.0
 sqlparse==0.3.0
-urllib3==1.25.6
+urllib3==1.25.8
 
 #Note: in project POST request can not correctly work because i did not specify my real email and password which was used to send email
 #Example of POST request(via Postman): 
